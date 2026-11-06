@@ -1,0 +1,53 @@
+Soy un joven de 15 años que vive en colombia y con sueños que vuelan por la nubes estoy aprendiendo python y en un futuro se un mejor progamador
+
+
+TomAI es un asistente personal inteligente desarrollado en Python para Windows. Está diseñado para facilitar el uso del computador mediante comandos de voz, escritura e inteligencia artificial.
+
+Su objetivo es ofrecer una experiencia similar a la de un asistente virtual futurista, con una interfaz animada y diferentes herramientas para interactuar con el PC.
+¿Cómo funciona TomAI?
+TomAI combina diferentes tecnologías para funcionar:
+
+1. Interfaz gráfica
+- Cuenta con una burbuja animada.
+- Tiene partículas y efectos luminosos.
+- Dispone de un modo de pantalla completa.
+- Permite utilizar una interfaz flotante.
+2. Reconocimiento de voz
+
+Puede recibir instrucciones mediante el micrófono utilizando tecnologías de reconocimiento de voz.
+
+3. Comunicación por teclado
+
+También permite escribir mensajes y comandos directamente en su panel de texto.
+
+4. Inteligencia artificial
+
+Puede conectarse con un modelo de inteligencia artificial para procesar preguntas y generar respuestas.
+
+5. Control del computador
+
+Incluye funciones para:
+- Abrir programas.
+- Abrir navegadores como Opera GX.
+- Abrir juegos.
+- Gestionar ventanas.
+- Ejecutar comandos programados.
+- Responder a instrucciones de despedida como «adiós».
+6. Sistema de voz
+
+Dispone de funciones de síntesis de voz para responder mediante audio. También se puede ampliar para utilizar voces de inteligencia artificial como ElevenLabs.
+¿Cómo descargar TomAI?
+Archivo disponible
+Puedes descargar la versión completa que conserva la interfaz, la burbuja animada y el teclado:
+aqui en este archivo.py
+¿Cómo instalarlo en Windows 10?
+1. Instala Python.
+2. Descarga el archivo de JARVIS.
+3. Abre Visual Studio Code.
+4. Abre la carpeta donde guardaste el archivo.
+5. Abre una terminal y ejecuta:
+py -m pip install pillow psutil edge-tts pyttsx3 SpeechRecognition vosk comtypes pywin32
+El futuro del proyecto: TomAI
+JARVIS es la base de un proyecto que evolucionará hacia TomAI, con el objetivo de incorporar una voz más natural mediante ElevenLabs, mejorar su inteligencia y conservar todas sus funciones originales.
+
+TomAI: un asistente personal creado para convertir tu PC en una experiencia más inteligente.
