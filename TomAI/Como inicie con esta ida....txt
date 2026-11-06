@@ -1,5 +1,5 @@
 Soy un joven de 15 años que vive en colombia y con sueños que vuelan por la nubes estoy aprendiendo python y en un futuro ser un mejor progamador y representar a mi pais
-
+En este asistente por mis pocos recursos no me alcanzaba para claude code o codex que fue lo uqe hice yo programar todo el cerebro y claude opus 5.5 el modelo gratuito me ayudara con la interfaz de mi asistente 
 
 TomAI es un asistente personal inteligente desarrollado en Python para Windows. Está diseñado para facilitar el uso del computador mediante comandos de voz, escritura e inteligencia artificial.
 
