@@ -1,4 +1,4 @@
-Soy un joven de 15 años que vive en colombia y con sueños que vuelan por la nubes estoy aprendiendo python y en un futuro se un mejor progamador
+Soy un joven de 15 años que vive en colombia y con sueños que vuelan por la nubes estoy aprendiendo python y en un futuro ser un mejor progamador y representar a mi pais
 
 
 TomAI es un asistente personal inteligente desarrollado en Python para Windows. Está diseñado para facilitar el uso del computador mediante comandos de voz, escritura e inteligencia artificial.
